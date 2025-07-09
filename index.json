@@ -9,25 +9,25 @@
         },
         {
             "type": "song",
-            "name": "Under Pressure",
+            "name": "Under Pressure help",
             "author": "Queen",
             "file": "https://github.com/JaredWogan/musicme/raw/refs/heads/master/Processed/Under%20Pressure.dfpwm"
         },
         {
             "type": "song",
-            "name": "Glamorous",
+            "name": "GlamGlam",
             "author": "Fergie",
             "file": "https://github.com/JaredWogan/musicme/raw/refs/heads/master/Processed/Glamorous.dfpwm"
         },
         {
             "type": "song",
-            "name": "100 Digits of Pi",
+            "name": "Pi",
             "author": "YouTube",
             "file": "https://github.com/JaredWogan/musicme/raw/refs/heads/master/Processed/PiSong.dfpwm"
         },
         {
             "type": "song",
-            "name": "Cat's in the Cradle",
+            "name": "Cradle",
             "author": "Harry Chapin",
             "file": "https://github.com/JaredWogan/musicme/raw/refs/heads/master/Processed/CatCradle.dfpwm"
         }
