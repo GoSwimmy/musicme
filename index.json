@@ -36,6 +36,12 @@
             "name": "Without Me",
             "author": "Halsey ft. Juice Wrld",
             "file": "https://github.com/GoSwimmy/musicme/raw/refs/heads/master/Processed/withoutme.dfpwm"
+        },
+        {
+            "type": "song",
+            "name": "Lil' Weight",
+            "author": "King George",
+            "file": "https://github.com/GoSwimmy/musicme/raw/refs/heads/master/Processed/lilweight.dfpwm"
         }
     ]
 }
